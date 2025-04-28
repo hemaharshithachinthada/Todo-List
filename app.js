@@ -20,6 +20,7 @@ function tasklist() {
           <input type="checkbox" class="checkbox">
           <p>My first project</p>
           </div>
+          
           <div class="icons">
           <img src="edit.jpeg"/>
           </div>
